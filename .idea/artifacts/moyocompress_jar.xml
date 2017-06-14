@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="moyocompress:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/moyocompress_jar</output-path>
+    <root id="archive" name="moyocompress.jar">
+      <element id="module-output" name="moyocompress" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/tinify/tinify/1.5.0/tinify-1.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp/okhttp/2.5.0/okhttp-2.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
